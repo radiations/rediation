@@ -1,3 +1,6 @@
 # Created by .ignore support plugin (hsz.mobi)
-.idea
 src/rediation/rediation.iml
+docs/docs.iml
+web_client/web_client.iml
+build
+reports
