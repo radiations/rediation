@@ -1,0 +1,3 @@
+2016/10/10 13:53:23 [W] [templatefunc.go:261] urlfor endpoint must like path.controller.method
+2016/10/10 13:54:10 [W] [templatefunc.go:261] urlfor endpoint must like path.controller.method
+2016/10/10 13:55:40 [W] [templatefunc.go:261] urlfor endpoint must like path.controller.method

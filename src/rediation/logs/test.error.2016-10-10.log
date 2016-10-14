@@ -1,0 +1,2 @@
+2016/10/09 11:50:28 [E] [server.go:2202] template: index.tpl:14:7: executing "index.tpl" at <.abs>: abs is not a method but has arguments
+2016/10/09 11:50:47 [E] [server.go:2202] template: index.tpl:14:7: executing "index.tpl" at <.abs>: abs is not a method but has arguments

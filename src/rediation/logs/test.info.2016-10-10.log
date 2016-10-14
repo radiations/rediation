@@ -1,0 +1,94 @@
+2016/10/09 11:48:52 [I] [asm_amd64.s:2086] http server Running on http://:8088
+2016/10/10 12:56:30 [I] [asm_amd64.s:2086] http server Running on http://:8088
+2016/10/10 12:57:11 [I] [asm_amd64.s:2086] http server Running on http://:8088
+2016/10/10 12:57:48 [I] [asm_amd64.s:2086] http server Running on http://:8088
+2016/10/10 13:02:29 [I] [asm_amd64.s:2086] http server Running on http://:8088
+2016/10/10 13:06:07 [I] [asm_amd64.s:2086] http server Running on http://:8088
+2016/10/10 13:15:16 [I] [asm_amd64.s:2086] http server Running on http://:8088
+2016/10/10 13:16:20 [I] [asm_amd64.s:2086] http server Running on http://:8088
+2016/10/10 13:21:02 [I] [asm_amd64.s:2086] http server Running on http://:8088
+2016/10/10 13:23:56 [I] [asm_amd64.s:2086] http server Running on http://:8088
+2016/10/10 13:52:36 [I] [asm_amd64.s:2086] http server Running on http://:8088
+2016/10/10 13:54:07 [I] [asm_amd64.s:2086] http server Running on http://:8088
+2016/10/10 13:54:10 [I] [router.go:779] 
+2016/10/10 13:55:36 [I] [asm_amd64.s:2086] http server Running on http://:8088
+2016/10/10 13:55:40 [I] [server.go:2202] 
+2016/10/10 13:56:50 [I] [asm_amd64.s:2086] http server Running on http://:8088
+2016/10/10 13:56:53 [I] [server.go:2202] /
+2016/10/10 14:03:23 [I] [server.go:2202] /
+2016/10/10 14:27:05 [I] [asm_amd64.s:2086] http server Running on http://:8088
+2016/10/10 14:28:34 [I] [asm_amd64.s:2086] http server Running on http://:8088
+2016/10/10 14:34:09 [I] [asm_amd64.s:2086] http server Running on http://:8088
+2016/10/10 14:42:31 [I] [asm_amd64.s:2086] http server Running on http://:8088
+2016/10/10 14:43:36 [I] [asm_amd64.s:2086] http server Running on http://:8088
+2016/10/10 14:56:58 [I] [asm_amd64.s:2086] http server Running on http://:8088
+2016/10/10 14:57:54 [I] [asm_amd64.s:2086] http server Running on http://:8088
+2016/10/10 15:03:49 [I] [asm_amd64.s:2086] http server Running on http://:8088
+2016/10/10 15:23:37 [I] [asm_amd64.s:2086] http server Running on http://:8088
+2016/10/10 15:23:44 [I] [server.go:2202] 
+2016/10/10 15:24:13 [I] [server.go:2202] 
+2016/10/10 15:24:53 [I] [server.go:2202] 
+2016/10/10 15:25:06 [I] [server.go:2202] 
+2016/10/10 15:25:17 [I] [server.go:2202] 
+2016/10/10 15:30:36 [I] [asm_amd64.s:2086] http server Running on http://:8088
+2016/10/10 15:30:43 [I] [server.go:2202] /backstage/auth/sign
+2016/10/10 15:30:58 [I] [server.go:2202] /
+2016/10/10 15:31:13 [I] [server.go:2202] /backstage/auth/sign
+2016/10/10 15:31:27 [I] [server.go:2202] /backstage/auth/sign
+2016/10/10 15:46:59 [I] [asm_amd64.s:2086] http server Running on http://:8088
+2016/10/10 15:47:05 [I] [server.go:2202] /backstage/auth/sign
+2016/10/10 15:47:45 [I] [asm_amd64.s:2086] http server Running on http://:8088
+2016/10/10 15:47:48 [I] [server.go:2202] /backstage/auth/sign
+2016/10/10 15:48:21 [I] [asm_amd64.s:2086] http server Running on http://:8088
+2016/10/10 15:48:23 [I] [router.go:762] backstage/auth/sign
+2016/10/10 15:51:41 [I] [asm_amd64.s:2086] http server Running on http://:8088
+2016/10/10 15:51:47 [I] [router.go:762] backstage/auth/sign
+2016/10/10 15:52:40 [I] [asm_amd64.s:2086] http server Running on http://:8088
+2016/10/10 15:52:43 [I] [router.go:762] backstage/auth/sign
+2016/10/10 15:53:11 [I] [asm_amd64.s:2086] http server Running on http://:8088
+2016/10/10 15:53:14 [I] [router.go:762] backstage/auth/sign
+2016/10/10 15:53:32 [I] [asm_amd64.s:2086] http server Running on http://:8088
+2016/10/10 15:53:36 [I] [router.go:762] backstage/auth/sign
+2016/10/10 15:55:29 [I] [router.go:762] backstage/auth/sign
+2016/10/10 15:55:44 [I] [asm_amd64.s:2086] http server Running on http://:8088
+2016/10/10 15:55:52 [I] [router.go:762] backstage/auth/sign
+2016/10/10 15:56:38 [I] [router.go:762] backstage/auth/sign
+2016/10/10 15:57:11 [I] [router.go:762] backstage/auth/sign
+2016/10/10 15:57:20 [I] [router.go:762] backstage/auth/sign
+2016/10/10 15:58:32 [I] [router.go:762] backstage/auth/sign
+2016/10/10 15:58:39 [I] [router.go:762] backstage/auth/sign
+2016/10/10 16:00:21 [I] [router.go:762] backstage/auth/sign
+2016/10/10 16:00:30 [I] [router.go:762] backstage/auth/sign
+2016/10/10 16:01:11 [I] [router.go:762] backstage/auth/sign
+2016/10/10 16:02:10 [I] [router.go:762] backstage/auth/sign
+2016/10/10 16:02:22 [I] [router.go:762] backstage/auth/sign
+2016/10/10 16:05:12 [I] [asm_amd64.s:2086] http server Running on http://:8088
+2016/10/10 16:05:15 [I] [router.go:762] backstage/auth/sign
+2016/10/10 16:06:04 [I] [router.go:762] backstage/auth/sign
+2016/10/10 16:08:25 [I] [asm_amd64.s:2086] http server Running on http://:8088
+2016/10/10 16:08:28 [I] [router.go:762] backstage/auth/sign
+2016/10/10 16:08:48 [I] [router.go:762] backstage/auth/sign
+2016/10/10 16:15:01 [I] [asm_amd64.s:2086] http server Running on http://:8088
+2016/10/10 16:15:04 [I] [router.go:762] /auth/sign
+2016/10/10 16:15:24 [I] [router.go:762] /auth/sign
+2016/10/10 16:15:30 [I] [asm_amd64.s:2086] http server Running on http://:8088
+2016/10/10 16:16:08 [I] [asm_amd64.s:2086] http server Running on http://:8088
+2016/10/10 16:16:11 [I] [router.go:762] auth/sign
+2016/10/10 16:18:54 [I] [asm_amd64.s:2086] http server Running on http://:8088
+2016/10/10 16:22:16 [I] [router.go:762] auth/sign
+2016/10/10 16:22:47 [I] [router.go:762] auth/sign
+2016/10/10 16:22:57 [I] [router.go:762] auth/sign
+2016/10/10 16:23:01 [I] [router.go:762] auth/sign
+2016/10/10 17:08:11 [I] [asm_amd64.s:2086] http server Running on http://:8088
+2016/10/10 17:08:16 [I] [router.go:762] auth/sign
+2016/10/10 17:09:09 [I] [router.go:762] auth/sign
+2016/10/10 17:27:34 [I] [router.go:762] 
+2016/10/10 17:27:37 [I] [router.go:762] auth/sign
+2016/10/10 17:35:10 [I] [asm_amd64.s:2086] http server Running on http://:8088
+2016/10/10 17:35:28 [I] [router.go:762] auth/sign
+2016/10/10 17:35:34 [I] [router.go:762] auth/sign
+2016/10/10 17:50:59 [I] [asm_amd64.s:2086] http server Running on http://:8088
+2016/10/10 17:51:08 [I] [router.go:762] auth/sign
+2016/10/10 17:51:08 [I] [server.go:2202] h43vEKtMcTJKrzrbs125M18gLIwuWnug
+2016/10/10 17:55:27 [I] [asm_amd64.s:2086] http server Running on http://:8088
+2016/10/10 17:55:30 [I] [server.go:2202] h43vEKtMcTJKrzrbs125M18gLIwuWnug

@@ -4,3 +4,4 @@ docs/docs.iml
 web_client/web_client.iml
 build
 reports
+node_modules
